@@ -1,5 +1,7 @@
 ## 平台简介
 
+启动部署：https://doc.ruoyi.vip/ruoyi-vue/document/hjbs.html
+
 若依是一套全部开源的快速开发平台，毫无保留给个人及企业免费使用。
 
 * 采用前后端分离的模式，微服务版本前端(基于 [RuoYi-Vue](https://gitee.com/y_project/RuoYi-Vue))。
